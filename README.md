@@ -19,12 +19,12 @@ higher education governance, fiduciary ethics, epistemic justice, managerialism,
 Correspondence regarding this work is welcome.
 
 Download this scholarly work as a PDF for sharing and citation:
-[PDF download](https://raw.githubusercontent.com/Peter-Kahl/The-Conflict-of-Dual-Roles-in-Higher-Education/master/Kahl%20P%2C%20Epistemic%20Humility%20and%20the%20Transposition%20of%20Ethical%20Duties%20into%20Epistemic%20Duties%20(21%20June%202025).pdf)
+[PDF download](https://raw.githubusercontent.com/Peter-Kahl/The-Conflict-of-Dual-Roles-in-Higher-Education/master/Kahl%20P%2C%20The%20Conflict%20of%20Dual%20Roles%20in%20Higher%20Education%20(21%20June%202025).pdf)
 
 Cite this work:
 
 ```
-Peter Kahl, ‘The Conflict of Dual Roles in Higher Education — Why Educators Must Not Be University Administrators’ (Github, 2025) <https://raw.githubusercontent.com/Peter-Kahl/The-Conflict-of-Dual-Roles-in-Higher-Education/master/Kahl%20P%2C%20Epistemic%20Humility%20and%20the%20Transposition%20of%20Ethical%20Duties%20into%20Epistemic%20Duties%20(21%20June%202025).pdf>
+Peter Kahl, ‘The Conflict of Dual Roles in Higher Education — Why Educators Must Not Be University Administrators’ (Github, 2025) <https://raw.githubusercontent.com/Peter-Kahl/The-Conflict-of-Dual-Roles-in-Higher-Education/master/Kahl%20P%2C%20The%20Conflict%20of%20Dual%20Roles%20in%20Higher%20Education%20(21%20June%202025).pdf>
 ```
 
 ### Licence
